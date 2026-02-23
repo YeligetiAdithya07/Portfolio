@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 40px;
+    background-color: #ffffff;
+    color: #222;
+    line-height: 1.6;
+}
+
+.hero {
+    margin-bottom: 40px;
+}
+
+h1 {
+    font-size: 40px;
+    margin-bottom: 5px;
+}
+
+h2 {
+    color: #444;
+    font-weight: normal;
+}
+
+h3 {
+    border-bottom: 2px solid #eee;
+    padding-bottom: 5px;
+    margin-top: 40px;
+}
+
+ul {
+    list-style-type: square;
+}
+
+.project {
+    margin-bottom: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #0066cc;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
